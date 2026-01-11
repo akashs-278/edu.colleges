@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# multiplication table
 echo "Enter a number to generate multiplication table of it"
 read n
 

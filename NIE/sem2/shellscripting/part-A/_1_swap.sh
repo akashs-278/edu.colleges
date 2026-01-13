@@ -18,9 +18,9 @@ echo "b = $b"
 
 
 # without third variable/temp variable
-let a=$a+$b
-let b=$a-$b
-let a=$a-$b
+a=$((a+b))
+b=$((a-b))
+a=$((a-b))
 
 echo "After swapping without using temp variable.."
 echo "a = $a"

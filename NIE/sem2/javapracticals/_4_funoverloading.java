@@ -10,7 +10,7 @@ class sum{
     }
     
 }
-public class _4_funocerloading {
+public class _4_funoverloading {
     public static void main(String[] args) {
 
         sum funO = new sum();

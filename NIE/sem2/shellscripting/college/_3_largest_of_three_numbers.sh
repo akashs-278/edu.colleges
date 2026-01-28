@@ -1,11 +1,16 @@
-echo "Enter 3 numbers : "
-read a b c
-if [ $a -gt $b ] && [ $a -gt $c ]
+echo "enter num1"
+read num1
+echo "enter num2"
+read num2
+echo "enter num3"
+read num3
+if [ $num1 -gt $num2 ] && [ $num1 -gt $num3 ]
 then
-echo "$a is the greatest."
-elif [ $b -gt $c ]
+    echo "largest number is $num1"
+elif [ $num2 -gt $num1 ] && [ $num2 -gt $num3 ]
 then
-echo "$b is the greatest."
+    echo "largest number is $num2"
 else
-echo "$c is the greatest."
+    echo "largest number is $num3"
 fi
+

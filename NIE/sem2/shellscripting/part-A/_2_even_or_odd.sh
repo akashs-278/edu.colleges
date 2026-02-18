@@ -1,13 +1,9 @@
-#!/bin/bash
-
-# Even or Odd checking
-echo "Enter a number to check Even or Odd"
-read num
-
-
-if [[ num%2 -eq 0 ]]
+echo "enter the number : "
+read n
+rem=`expr $n % 2 `
+if [ $rem -eq 0 ]
 then
-    echo "$num is Even Number"
+echo "$n is even number."
 else
-    echo "$num is Odd Number"
+echo "$n is odd number."
 fi

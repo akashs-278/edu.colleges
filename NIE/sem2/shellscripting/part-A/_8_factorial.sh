@@ -1,12 +1,9 @@
-#!/bin/bash
-
-# Factorial of a number
-
-echo "Enter a number to find factorial of it"
+echo "Enter the number"
 read num
 fact=1
-for ((i=1 ; i<=num ; i++))
+while [ $num -gt 1 ]
 do
-    fact=$((fact*i))
+    fact=`expr $fact \* $num`
+    num=`expr $num - 1`
 done
-echo "Factorial of $num is $fact"
+echo "Factorial of the given number is $fact"

@@ -1,11 +1,15 @@
-#!/bin/bash
-
-# Arithmetic Operations
-
-echo "Enter two numbers"
+echo "Enter the first number "
 read a
+echo "Enter the second number "
 read b
-echo "Subtraction of $b from $a is $(($a-$b))"
-echo "Addition of $a and $b is $(($a+$b))"
-echo "Multiplication of $a and $b is $(($a*$b))"
-echo "Division of $a by $b is $(($a/$b))"
+sum=`expr $a + $b`
+echo "sum of $a and $b is $sum."
+
+diff=`expr $a - $b`
+echo "difference of $a and $b is $diff."
+
+prod=`expr $a \* $b`
+echo "product of $a and $b is $prod."
+
+div=`expr $a / $b`
+echo "Dividing $a and $b is $div."

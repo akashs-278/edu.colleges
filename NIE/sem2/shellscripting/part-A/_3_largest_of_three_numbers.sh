@@ -1,18 +1,16 @@
-#!/bin/bash
-
-# largest of three number
-
-echo "Enter three numbers"
-read a
-read b
-read c
-
-if [[ $a > $b ]] && [[ $a > $c ]]
+echo "enter num1"
+read num1
+echo "enter num2"
+read num2
+echo "enter num3"
+read num3
+if [ $num1 -gt $num2 ] && [ $num1 -gt $num3 ]
 then
-    echo "$a is greater"
-elif [[ $b > $a ]] && [[ $b > $c ]] 
+    echo "largest number is $num1"
+elif [ $num2 -gt $num1 ] && [ $num2 -gt $num3 ]
 then
-    echo "$b is greater"
+    echo "largest number is $num2"
 else
-    echo "$c is greater"
+    echo "largest number is $num3"
 fi
+

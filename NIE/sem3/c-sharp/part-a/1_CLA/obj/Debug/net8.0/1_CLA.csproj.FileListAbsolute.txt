@@ -1,0 +1,15 @@
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/bin/Debug/net8.0/1_CLA
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/bin/Debug/net8.0/1_CLA.deps.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/bin/Debug/net8.0/1_CLA.runtimeconfig.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/bin/Debug/net8.0/1_CLA.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/bin/Debug/net8.0/1_CLA.pdb
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.GeneratedMSBuildEditorConfig.editorconfig
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.AssemblyInfoInputs.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.AssemblyInfo.cs
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.csproj.CoreCompileInputs.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.sourcelink.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/refint/1_CLA.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.pdb
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/1_CLA.genruntimeconfig.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/part-a/1_CLA/obj/Debug/net8.0/ref/1_CLA.dll

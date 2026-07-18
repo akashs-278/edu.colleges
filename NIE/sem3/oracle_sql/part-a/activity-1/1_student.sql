@@ -6,7 +6,7 @@ CREATE TABLE Student (
 );
 
 INSERT INTO Student VALUES('Smith', 17, 1, 'CS');
-INSERT INTO Student VALUES('Brown', 18, 2, 'CS');
-INSERT INTO Student VALUES('John', 8, 1, 'CS');
+INSERT INTO Student VALUES('Brown', 8, 2, 'CS');
+
 
 SELECT * FROM Student;

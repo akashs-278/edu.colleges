@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj": {}
+    "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj": {}
   },
   "projects": {
-    "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj": {
+    "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj",
+        "projectUniqueName": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj",
         "projectName": "2_methods_and_operators",
-        "projectPath": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj",
+        "projectPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\2_methods_and_operators.csproj",
         "packagesPath": "C:\\Users\\akashs278\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\obj\\",
+        "outputPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\2_methods_and_operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akashs278\\AppData\\Roaming\\NuGet\\NuGet.Config",

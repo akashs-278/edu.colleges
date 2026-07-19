@@ -1,0 +1,7 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\bin\Debug\2_methods_and_operator.exe.config
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\bin\Debug\2_methods_and_operator.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\bin\Debug\2_methods_and_operator.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\obj\Debug\2_methods_and_operator.csproj.AssemblyReference.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\obj\Debug\2_methods_and_operator.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\obj\Debug\2_methods_and_operator.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\2_methods_and_operator\2_methods_and_operator\obj\Debug\2_methods_and_operator.pdb

@@ -1,0 +1,7 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\bin\Debug\1_CLA.exe.config
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\bin\Debug\1_CLA.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\bin\Debug\1_CLA.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\obj\Debug\1_CLA.csproj.AssemblyReference.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\obj\Debug\1_CLA.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\obj\Debug\1_CLA.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\windows\1_CLA\1_CLA\1_CLA\obj\Debug\1_CLA.pdb

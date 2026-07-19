@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj": {}
+    "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj": {}
   },
   "projects": {
-    "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj": {
+    "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj",
+        "projectUniqueName": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj",
         "projectName": "1_CLA",
-        "projectPath": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj",
+        "projectPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj",
         "packagesPath": "C:\\Users\\akashs278\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\obj\\",
+        "outputPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akashs278\\AppData\\Roaming\\NuGet\\NuGet.Config",

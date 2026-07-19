@@ -1,12 +1,22 @@
-create table section(Section_Identifier number(10) primary key, Course_Number varchar2(10), Year number, Instructor varchar2(20));
+
+CREATE TABLE section (
+    section_identifier NUMBER(10) PRIMARY KEY,
+    course_number      VARCHAR2(10),
+    years               NUMBER,
+    instructor         VARCHAR2(20),
+    FOREIGN KEY (Course_Number) REFERENCES course(Course_Number)
+);
 
 
-insert into section values(85 ,'MATH2410', 98, 'King');
-insert into section values(92 ,'CS1310', 98, 'Andreson');
-insert into section values(102, 'CS3320', 99, 'Knuth');
-insert into section values(112, 'MATH2410', 99, 'Chang');
-insert into section values(119, 'CS1310', 99, 'Andreson');
-insert into section values(135, 'CS3380', 99, 'Stone');
+INSERT INTO section VALUES (85,  'MATH2410', 98, 'King');
+INSERT INTO section VALUES (92,  'CS1310',   98, 'Andreson');
+INSERT INTO section VALUES (102, 'CS3320',   99, 'Knuth');
+INSERT INTO section VALUES (112, 'MATH2410', 99, 'Chang');
+INSERT INTO section VALUES (119, 'CS1310',   99, 'Andreson');
+INSERT INTO section VALUES (135, 'CS3380',   99, 'Stone');
 
+COMMIT;
 
-select * from section;
+SELECT * FROM section;
+
+-- drop table section;

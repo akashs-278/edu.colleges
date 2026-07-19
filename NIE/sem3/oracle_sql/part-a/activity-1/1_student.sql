@@ -10,3 +10,5 @@ INSERT INTO Student VALUES('Brown', 8, 2, 'CS');
 
 
 SELECT * FROM Student;
+
+commit;

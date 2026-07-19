@@ -11,3 +11,5 @@ INSERT INTO Course VALUES('Discrete Mathematics', 'MATH2410', 3, 'MATH');
 INSERT INTO Course VALUES('Database Management System', 'CS3380', 3, 'CS');
 
 SELECT * FROM Course;
+
+commit;

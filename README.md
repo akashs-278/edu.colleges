@@ -14,6 +14,6 @@ Table of content
 | | 2.2.1 Java | [Click Here](/NIE/sem2/javapracticals/) |
 | | 2.2.1 Shell Scripting | [Click Here](/NIE/sem2/shellscripting/) |
 | | 2.3 Sem3 | |
-| | 2.3.1 C# | |
+| | 2.3.1 C# | [Click Here](./NIE/sem3/c-sharp/)  |
 | | 2.3.2 SQL | [Click Here](/NIE/sem3/oracle_sql/) |
 | | 2.3.3 Web Technologies | |

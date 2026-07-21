@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\1_CLA\\1_CLA\\",
+  "WorkspaceRootPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\part-a\\1_CLA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4612263B-F83E-4914-96F3-FC1C0DA1D134}|1_CLA\\1_CLA.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\windows\\1_cla\\1_cla\\1_cla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4612263B-F83E-4914-96F3-FC1C0DA1D134}|1_CLA\\1_CLA.csproj|solutionrelative:1_cla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70542C5A-9FA8-4B51-BCBB-BD8AE247C4B6}|1_CLA\\1_CLA.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\windows\\part-a\\1_cla\\1_cla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70542C5A-9FA8-4B51-BCBB-BD8AE247C4B6}|1_CLA\\1_CLA.csproj|solutionrelative:1_cla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|1_CLA||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4612263B-F83E-4914-96F3-FC1C0DA1D134}|1_CLA\\1_CLA.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\windows\\1_cla\\1_cla\\1_cla\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+      "AbsoluteMoniker": "D:0:0:{70542C5A-9FA8-4B51-BCBB-BD8AE247C4B6}|1_CLA\\1_CLA.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\windows\\part-a\\1_cla\\1_cla\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,53 +20,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "1_CLA",
-              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\1_CLA\\1_CLA\\1_CLA\\1_CLA.csproj",
+              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\part-a\\1_CLA\\1_CLA\\1_CLA.csproj",
               "RelativeDocumentMoniker": "1_CLA\\1_CLA.csproj",
-              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\1_CLA\\1_CLA\\1_CLA\\1_CLA.csproj",
+              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\part-a\\1_CLA\\1_CLA\\1_CLA.csproj",
               "RelativeToolTip": "1_CLA\\1_CLA.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-19T09:18:29.216Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-07-21T12:15:25.328Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "4dc7f900-1d6a-48b7-be6f-de263bb47981",
-        "Display": 0,
-        "X": 226,
-        "Y": 286,
-        "Width": 1273,
-        "Height": 452,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\1_CLA\\1_CLA\\1_CLA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\part-a\\1_CLA\\1_CLA\\Program.cs",
               "RelativeDocumentMoniker": "1_CLA\\Program.cs",
-              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\1_CLA\\1_CLA\\1_CLA\\Program.cs*",
-              "RelativeToolTip": "1_CLA\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\windows\\part-a\\1_CLA\\1_CLA\\Program.cs",
+              "RelativeToolTip": "1_CLA\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T09:16:28.889Z",
+              "WhenOpened": "2026-07-21T12:14:09.434Z",
               "EditorCaption": ""
             }
           ]

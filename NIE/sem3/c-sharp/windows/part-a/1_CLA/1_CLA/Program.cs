@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,7 +15,6 @@ namespace _1_CLA
 
             int sum = num1 + num2;
             Console.WriteLine("Sum = "+sum);
-            //Console.ReadKey();
         }
     }
 }

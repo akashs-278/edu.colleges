@@ -1,0 +1,15 @@
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/bin/Debug/net8.0/2_methods_and_operators
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/bin/Debug/net8.0/2_methods_and_operators.deps.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/bin/Debug/net8.0/2_methods_and_operators.runtimeconfig.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/bin/Debug/net8.0/2_methods_and_operators.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/bin/Debug/net8.0/2_methods_and_operators.pdb
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.AssemblyInfoInputs.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.AssemblyInfo.cs
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.csproj.CoreCompileInputs.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.sourcelink.json
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/refint/2_methods_and_operators.dll
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.pdb
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/2_methods_and_operators.genruntimeconfig.cache
+/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/2_methods_and_operators/obj/Debug/net8.0/ref/2_methods_and_operators.dll

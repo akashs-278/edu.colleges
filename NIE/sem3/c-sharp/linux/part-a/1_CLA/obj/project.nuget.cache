@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNfCoNx6Uqo=",
+  "dgSpecHash": "t5daD0ssjVY1vAIrCWzjKJIp5fdI/5X6iuL+m88EjziRh+iBBQ30cQ4gIvmeQ6bOXgI7xYhbCBoz6LI+qzmBlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\linux\\part-a\\1_CLA\\1_CLA.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\akashs278\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\akashs278\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\akashs278\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\akashs278\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/ak/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/1_CLA/1_CLA.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

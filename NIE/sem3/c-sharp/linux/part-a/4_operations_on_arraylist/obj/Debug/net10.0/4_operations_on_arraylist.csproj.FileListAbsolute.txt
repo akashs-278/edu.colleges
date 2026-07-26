@@ -1,0 +1,15 @@
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/bin/Debug/net10.0/4_operations_on_arraylist
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/bin/Debug/net10.0/4_operations_on_arraylist.deps.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/bin/Debug/net10.0/4_operations_on_arraylist.runtimeconfig.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/bin/Debug/net10.0/4_operations_on_arraylist.dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/bin/Debug/net10.0/4_operations_on_arraylist.pdb
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.AssemblyInfoInputs.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.AssemblyInfo.cs
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.csproj.CoreCompileInputs.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.sourcelink.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/refint/4_operations_on_arraylist.dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.pdb
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/4_operations_on_arraylist.genruntimeconfig.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/4_operations_on_arraylist/obj/Debug/net10.0/ref/4_operations_on_arraylist.dll

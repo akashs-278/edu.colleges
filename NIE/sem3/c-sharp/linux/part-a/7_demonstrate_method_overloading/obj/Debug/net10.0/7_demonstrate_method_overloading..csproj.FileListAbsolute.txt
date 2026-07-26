@@ -1,0 +1,15 @@
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/bin/Debug/net10.0/7_demonstrate_method_overloading.
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/bin/Debug/net10.0/7_demonstrate_method_overloading..deps.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/bin/Debug/net10.0/7_demonstrate_method_overloading..runtimeconfig.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/bin/Debug/net10.0/7_demonstrate_method_overloading..dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/bin/Debug/net10.0/7_demonstrate_method_overloading..pdb
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..GeneratedMSBuildEditorConfig.editorconfig
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..AssemblyInfoInputs.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..AssemblyInfo.cs
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..csproj.CoreCompileInputs.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..sourcelink.json
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/refint/7_demonstrate_method_overloading..dll
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..pdb
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/7_demonstrate_method_overloading..genruntimeconfig.cache
+/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/7_demonstrate_method_overloading/obj/Debug/net10.0/ref/7_demonstrate_method_overloading..dll

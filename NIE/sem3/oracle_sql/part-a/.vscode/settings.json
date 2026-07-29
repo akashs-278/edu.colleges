@@ -5,9 +5,13 @@
         "EMPID",
         "empsalary",
         "FIRSTNAME",
+        "Kappor",
+        "Klone",
         "LASTNAME",
+        "Lata",
         "Losantiville",
         "Monika",
+        "Rossaine",
         "Sarath",
         "Sharma",
         "varchar"

@@ -49,7 +49,7 @@ select * from employee order by firstname desc;
 select employee.firstname,empsalary.salary from employee, empsalary where employee.empid = empsalary.empid and empsalary.designation = 'Salesman';
 
 -- 4
-
+select e.firstname, e.lastname, (s.salary+s.benefits) as total_salary from employee e, empsalary s where e.empid = s.empid;
 
 -- 5
 select distinct designation from empsalary;

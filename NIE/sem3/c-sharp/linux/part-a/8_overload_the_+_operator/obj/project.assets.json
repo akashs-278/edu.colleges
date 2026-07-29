@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8th_overload_the_+_operator/8th_overload_the_+_operator.csproj",
+      "projectUniqueName": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8_overload_the_+_operator/8th_overload_the_+_operator.csproj",
       "projectName": "8th_overload_the_+_operator",
-      "projectPath": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8th_overload_the_+_operator/8th_overload_the_+_operator.csproj",
+      "projectPath": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8_overload_the_+_operator/8th_overload_the_+_operator.csproj",
       "packagesPath": "/home/akash278/.nuget/packages/",
-      "outputPath": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8th_overload_the_+_operator/obj/",
+      "outputPath": "/home/akash278/Documents/edu.colleges/NIE/sem3/c-sharp/linux/part-a/8_overload_the_+_operator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/akash278/.nuget/NuGet/NuGet.Config"

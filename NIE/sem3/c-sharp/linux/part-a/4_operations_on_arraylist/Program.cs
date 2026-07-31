@@ -10,7 +10,7 @@ class ArrayListDemo
         cities.Add("Mandya");
         Console.WriteLine("Initial ArrayList:");
         Display(cities);
-        cities.Add("Udupi");
+        cities.Insert(1,"Udupi");
         Console.WriteLine("\nAfter Inserting/Adding 'Udupi' at index 1:");
         Display(cities);
         cities.Remove("Mandya");

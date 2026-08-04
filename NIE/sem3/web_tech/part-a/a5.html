@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+    <TITLE> FORM </TITLE>
+</HEAD>
+<BODY>
+    <H1 ALIGN = "CENTER"> Student Application Form </H1>
+    <form action = "#" method = "Post">
+    <font color = "white">
+    <table align = "Center" cellpadding = "7" bgcolor = "red">
+        <!-- Full Name -->
+        <tr>
+            <td> Full Name : </td>
+            <td> <input type = "text" required> </td>
+        </tr>
+        <tr>
+            <td> Date of Birth </td>
+            <td> <input type = "date" required > </td>
+        </tr>
+        <!-- Gender -->
+        <tr>
+            <td> Gender : </td>
+            <td> 
+                <label for = "male"> Male </label>
+                <input type = "radio" name = "gender" value = "Male" id = "Male" >
+                <input type = "radio" name = "gender" value = "Female" id = "Female" >
+                <label for = "Female"> Female </label>
+            </td>
+        </tr>
+        <!-- Email -->
+        <tr>
+            <td> Email </td>
+            <td> <input type = "email" required > </td>
+        </tr>
+        <!-- Phone -->
+        <tr>
+            <td> Phone Number </td>
+            <td> <input type = "number" required > </td>
+        </tr>
+        <!-- Address -->
+        <tr> 
+            <td> Address </td>
+            <td> <textarea rows = "3" cols = "50" required> </textarea> </td>
+        </tr>
+        <tr> 
+            <td> <label for = "Course"> Course : </label> </td>
+            <td> 
+                <Select required>
+                    <option> -- Select -- </option>
+                    <option> BCA </option>
+                    <option> BCom </option>
+                    <option> BBA </option>
+                    <option> BSc </option>
+                </Select>
+            </td>
+        </tr>
+        <tr>
+            <td colspan = "2" align = "center">
+                <input type = "submit" value = "Submit">
+                <input type = "reset" value = "Reset">
+            </td>
+        </tr>
+    </table>
+    </font>
+    </form>
+</BODY>
+</HTML>

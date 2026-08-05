@@ -98,3 +98,5 @@ delete Grade_Report where Reg_No=(select Reg_No from Student where Name='Brown')
 
 
 drop table Section cascade constraints;
+
+commit;

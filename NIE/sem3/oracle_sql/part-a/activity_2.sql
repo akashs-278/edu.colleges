@@ -6,6 +6,7 @@ create table employee (
     address varchar2(50),
     city varchar2(30)
 );
+
 insert into employee values(1001, 'George', 'Smith', to_date('11-may-06', 'dd-mon-rr'), '83 First Street', 'Paris');
 insert into employee values(1002, 'Mary', 'Jones', to_date('25-feb-08', 'dd-mon-rr'), '842 Vine Ave', 'Losantiville');
 insert into employee values(1012, 'Sam', 'Tones', to_date('12-sep-05', 'dd-mon-rr'), '33 Elm St.', 'Paris');
@@ -16,6 +17,7 @@ insert into employee values(1020, 'Monika', 'Gupta', to_date('07-jun-08', 'dd-mo
 
 select * from employee;
 
+commit;
 
 
 create table empsalary (
@@ -25,6 +27,7 @@ create table empsalary (
     designation varchar2(20),
     foreign key(empid) references employee(empid)
 );
+
 insert into empsalary values(1001, 10000, 3000, 'Manager');
 insert into empsalary values(1002, 8000, 1200, 'Salesman');
 insert into empsalary values(1012, 20000, 5000, 'Director');
@@ -34,7 +37,7 @@ insert into empsalary values(1020, 8000, 1200, 'Salesman');
 
 select * from empsalary;
 
-
+commit;
 
 
 
@@ -52,7 +55,7 @@ select employee.firstname,empsalary.salary from employee, empsalary where employ
 select e.firstname, e.lastname, (s.salary+s.benefits) as total_salary from employee e, empsalary s where e.empid = s.empid;
 
 -- 5
-select distinct designation from empsalary;
+select count(distinct designation) from empsalary;
 
 -- 6
 select firstname from employee where length(firstname) = 6;
@@ -60,8 +63,13 @@ select firstname from employee where length(firstname) = 6;
 -- 7
 alter table employee add Phone_Number number(10);
 update employee set PHONE_NUMBER = 1234567890;
+select * from employee;
 
 -- 8
 
 
 -- 9
+
+
+
+commit;

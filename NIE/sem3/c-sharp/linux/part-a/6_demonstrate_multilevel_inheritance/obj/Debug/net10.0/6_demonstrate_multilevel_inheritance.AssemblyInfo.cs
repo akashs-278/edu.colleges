@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6_demonstrate_multilevel_inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f526e1faa7ec7bee3421ab8e8f174094cde1526d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8160f9a7da7595d5973fdb5326f2928a201147da")]
 [assembly: System.Reflection.AssemblyProductAttribute("6_demonstrate_multilevel_inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6_demonstrate_multilevel_inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

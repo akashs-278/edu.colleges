@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>CSS Level Demo</title>
+    <!-- External CSS -->
+    <link rel="stylesheet" type="text/css" href="activity-5-style.css" />
+
+    <!-- Internal CSS -->
+    <style>
+        p {
+            color: green;
+            font-size: 16px;
+        }
+
+        internal-style {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- h1 with External CSS -->
+    <h1>CSS Style Levels Demo</h1>
+
+    <!-- Paragraph with Internal CSS -->
+    <p class="internal-style">This paragraph uses Document Level(Internal) CSS</p>
+
+    <!-- Paragraph with Inline CSS -->
+    <p style="color:red; font-size: 18px; text-decoration: underline">This paragraph uses Inline CSS</p>
+
+</body>
+
+</html>

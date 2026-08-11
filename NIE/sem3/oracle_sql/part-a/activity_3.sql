@@ -87,62 +87,94 @@ commit;
 
 -- Queries
 -- 1
-SELECT Book_name, Author_name, Price
-FROM Books
-WHERE Publishers = 'First Publ';
+select book_name,
+       author_name,
+       price
+  from books
+ where publishers = 'First Publ';
 
 
 -- 2
-SELECT Book_id, Book_name, Price, Publishers
-FROM Books
-WHERE Quantity > 8 AND Price < 500;
+select book_id,
+       book_name,
+       price,
+       publishers
+  from books
+ where quantity > 8
+   and price < 500;
 
 
 -- 3
-SELECT Book_id, Book_name, Author_name
-FROM Books
-WHERE Publishers <> 'EPP'
-AND Price BETWEEN 300 AND 700;
+select book_id,
+       book_name,
+       author_name
+  from books
+ where publishers <> 'EPP'
+   and price between 300 and 700;
 
 
 -- 4
-SELECT Book_id, Book_name, Author_name, Publishers, Quantity,
-       Price + (Price * 0.04) AS VAT,
-       Price + (Price * 0.04) AS Total
-FROM Books;
+select book_id,
+       book_name,
+       author_name,
+       publishers,
+       quantity,
+       price + ( price * 0.04 ) as vat,
+       price + ( price * 0.04 ) as total
+  from books;
 
+select book_id,
+       book_name,
+       publishers,
+       price,
+       quantity,
+       price * quantity * 0.04 as vat,
+       price * quantity + ( price * quantity * 0.04 ) as total
+  from books;
 
 -- 5
-SELECT *
-FROM Books
-WHERE Book_id IN ('C0001', 'F0001', 'T0001', 'F0002');
+select *
+  from books
+ where book_id in ( 'C0001',
+                    'F0001',
+                    'T0001',
+                    'F0002' );
 
 
 -- 6
-SELECT *
-FROM Books
-WHERE Type NOT IN ('Novel', 'Fiction');
+select *
+  from books
+ where type not in ( 'Novel',
+                     'Fiction' );
 
 
 -- 7
-SELECT *
-FROM Books
-WHERE Author_name LIKE 'A%';
+select *
+  from books
+ where author_name like 'A%';
 
-select * from books;
+select *
+  from books;
 -- 8
-SELECT *
-FROM Books
-WHERE Author_name LIKE 'T%S';
+select *
+  from books
+ where author_name like 'T%S';
 commit;
 
 -- 9
-SELECT B.Book_id, B.Book_name, B.Author_name, I.Quantity_Issued
-FROM Books B, Issued I
-WHERE B.Book_id = I.Book_id;
+select b.book_id,
+       b.book_name,
+       b.author_name,
+       i.quantity_issued
+  from books b,
+       issued i
+ where b.book_id = i.book_id;
 
 
 -- 10
-SELECT Book_name, Author_name, Price
-FROM Books
-ORDER BY Book_name ASC, Price DESC;
+select book_name,
+       author_name,
+       price
+  from books
+ order by book_name asc,
+          price desc;

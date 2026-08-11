@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <title>Selector</title>
+    <style>
+      /* 1. Element selector */
+      p {
+        color: blue;
+      }
+
+      /* 2. Id Selector */
+      #college {
+        color: darkblue;
+        background-color: lightgreen;
+      }
+
+      /* 3. Class Selector */
+      .important {
+        background-color: yellow;
+      }
+
+      /* 4. Universal Selector */
+      * {
+        font-family: Arial;
+      }
+
+      /* 5. Group Selector */
+      h2,
+      h3 {
+        color: green;
+      }
+
+      /* 6. Attribute selector */
+      input[type="text"] {
+        background-color: lightblue;
+      }
+
+      /* 7. Pseudo-class selector */
+      button:hover {
+        background-color: orange;
+        color: white;
+      }
+
+      /* 8. Pseudo Element selector */
+      p::first-letter {
+        font-size: 30px;
+        color: purple;
+        font-weight: bold;
+      }
+
+      /* First Line */
+      p::first-line {
+        font-weight: bold;
+      }
+
+      h2::before {
+        content: "Course ";
+      }
+
+      p::after {
+        content: "(BCA Dept)";
+      }
+
+      /* 9. Selection Selector */
+      p::selection {
+        background-color: yellow;
+        color: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1 id="college">NIE First Grade College</h1>
+
+    <h2>Student Profile</h2>
+
+    <h3>About the Student</h3>
+
+    <p class="important">BCA student learn programming, DB and WT</p>
+
+    <p>Web Technology helps to create attractive website</p>
+
+    <h3>Student Registration</h3>
+
+    <label>Student Name:</label>
+    <input type="text" placeholder="Enter Your name" />
+
+    <br /><br />
+
+    <label>Password:</label>
+    <input type="password" placeholder="Enter Password" />
+
+    <br /><br />
+
+    <button>Register</button>
+  </body>
+</html>

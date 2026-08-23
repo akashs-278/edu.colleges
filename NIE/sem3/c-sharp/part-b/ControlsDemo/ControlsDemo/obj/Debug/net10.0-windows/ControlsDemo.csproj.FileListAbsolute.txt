@@ -1,0 +1,17 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.Form1.resources
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.csproj.GenerateResource.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.AssemblyInfoInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.AssemblyInfo.cs
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.sourcelink.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\bin\Debug\net10.0-windows\ControlsDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\bin\Debug\net10.0-windows\ControlsDemo.deps.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\bin\Debug\net10.0-windows\ControlsDemo.runtimeconfig.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\bin\Debug\net10.0-windows\ControlsDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\bin\Debug\net10.0-windows\ControlsDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\refint\ControlsDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ControlsDemo.genruntimeconfig.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\ControlsDemo\ControlsDemo\obj\Debug\net10.0-windows\ref\ControlsDemo.dll

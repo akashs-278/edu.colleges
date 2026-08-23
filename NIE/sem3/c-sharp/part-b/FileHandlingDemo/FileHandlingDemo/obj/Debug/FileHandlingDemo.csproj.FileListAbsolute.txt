@@ -1,0 +1,7 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb

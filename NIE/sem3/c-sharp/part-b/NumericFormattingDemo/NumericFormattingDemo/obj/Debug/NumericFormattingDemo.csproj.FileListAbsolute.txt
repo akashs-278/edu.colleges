@@ -1,0 +1,7 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\bin\Debug\NumericFormattingDemo.exe.config
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\bin\Debug\NumericFormattingDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\bin\Debug\NumericFormattingDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\obj\Debug\NumericFormattingDemo.csproj.AssemblyReference.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\obj\Debug\NumericFormattingDemo.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\obj\Debug\NumericFormattingDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\NumericFormattingDemo\NumericFormattingDemo\obj\Debug\NumericFormattingDemo.pdb

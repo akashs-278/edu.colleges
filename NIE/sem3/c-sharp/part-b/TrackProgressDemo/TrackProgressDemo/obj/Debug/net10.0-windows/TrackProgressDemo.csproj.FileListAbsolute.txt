@@ -1,0 +1,17 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\bin\Debug\net10.0-windows\TrackProgressDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\bin\Debug\net10.0-windows\TrackProgressDemo.deps.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\bin\Debug\net10.0-windows\TrackProgressDemo.runtimeconfig.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\bin\Debug\net10.0-windows\TrackProgressDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\bin\Debug\net10.0-windows\TrackProgressDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.Form1.resources
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.csproj.GenerateResource.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.AssemblyInfoInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.AssemblyInfo.cs
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.sourcelink.json
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\refint\TrackProgressDemo.dll
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\TrackProgressDemo.genruntimeconfig.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\TrackProgressDemo\TrackProgressDemo\obj\Debug\net10.0-windows\ref\TrackProgressDemo.dll

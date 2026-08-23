@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\part-b\\controlsdemo\\controlsdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|solutionrelative:controlsdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\part-b\\controlsdemo\\controlsdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|solutionrelative:controlsdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|c:\\users\\akashs278\\documents\\github\\edu.colleges\\nie\\sem3\\c-sharp\\part-b\\controlsdemo\\controlsdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6740F8F-1D08-457A-95FC-9B84BC34E11E}|ControlsDemo\\ControlsDemo.csproj|solutionrelative:controlsdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ControlsDemo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "ControlsDemo\\Form1.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwF8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:16:11.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlsDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.cs",
+              "RelativeToolTip": "ControlsDemo\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:12:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlsDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\akashs278\\Documents\\GitHub\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\ControlsDemo\\ControlsDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "ControlsDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:07:43.7Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\MulticastDelegateDemo.exe.config
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\MulticastDelegateDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\MulticastDelegateDemo.pdb
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\MulticastDelegateDemo.csproj.AssemblyReference.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\MulticastDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\MulticastDelegateDemo.exe
+C:\Users\akashs278\Documents\GitHub\edu.colleges\NIE\sem3\c-sharp\part-b\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\MulticastDelegateDemo.pdb

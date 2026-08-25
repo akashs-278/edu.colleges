@@ -1,73 +1,106 @@
-CREATE TABLE Equipment_Details (
-    No NUMBER PRIMARY KEY,
-    Item_Name VARCHAR2(30),
-    Cost_Per_Item NUMBER(10, 2),
-    Quantity NUMBER,
-    Date_of_Purchase DATE,
-    Warranty NUMBER,
-    Operational NUMBER
+-- Create Table
+CREATE TABLE Equipment_details (
+    no NUMBER PRIMARY KEY,
+    Item_name VARCHAR2(10),
+    cost_per_item NUMBER,
+    quantity NUMBER,
+    date_of_purchase DATE,
+    warranty NUMBER,
+    operational NUMBER
 );
 
-INSERT INTO Equipment_Details VALUES (1, 'Computer', 30000, 9, TO_DATE('21/05/2007', 'DD/MM/YYYY'), 2, 7);
-INSERT INTO Equipment_Details VALUES (2, 'Printer', 5000, 3, TO_DATE('21/05/2006', 'DD/MM/YYYY'), 4, 2);
-INSERT INTO Equipment_Details VALUES (3, 'Scanner', 8000, 1, TO_DATE('29/08/2008', 'DD/MM/YYYY'), 3, 1);
-INSERT INTO Equipment_Details VALUES (4, 'Camera', 7000, 2, TO_DATE('13/06/2005', 'DD/MM/YYYY'), 1, 2);
-INSERT INTO Equipment_Details VALUES (5, 'UPS', 15000, 5, TO_DATE('21/05/2008', 'DD/MM/YYYY'), 1, 4);
-INSERT INTO Equipment_Details VALUES (6, 'Hub', 8000, 1, TO_DATE('31/10/2008', 'DD/MM/YYYY'), 2, 1);
-INSERT INTO Equipment_Details VALUES (7, 'Plotter', 25000, 2, TO_DATE('11/01/2009', 'DD/MM/YYYY'), 2, 2);
+-- Insert Records
+INSERT INTO equipment_details
+VALUES (1, 'Computer', 30000, 9, '21-MAY-07', 2, 7);
 
-COMMIT;
+INSERT INTO equipment_details
+VALUES (2, 'Printer', 5000, 3, '21-MAY-06', 4, 2);
 
--- Activity 4 Queries
--- 1. To select the ItemName purchase before 31/10/07.
-SELECT Item_Name 
-FROM Equipment_Details 
-WHERE Date_of_Purchase < TO_DATE('31/10/2007', 'DD/MM/YYYY');
+INSERT INTO equipment_details
+VALUES (3, 'Scanner', 8000, 1, '29-AUG-08', 3, 1);
 
--- 2. Extend the warranty of each item by 6 months.
-UPDATE Equipment_Details 
-SET Warranty = Warranty + 0.5;
+INSERT INTO equipment_details
+VALUES (4, 'Camera', 7000, 2, '13-JUN-05', 1, 2);
 
--- 3. Display ItemName , Dateof purchase and number of months between purchase date and present date.
-SELECT Item_Name, 
-       Date_of_Purchase, 
-       MONTHS_BETWEEN(SYSDATE, Date_of_Purchase) AS Months_Passed 
-FROM Equipment_Details;
+INSERT INTO equipment_details
+VALUES (5, 'UPS', 15000, 5, '21-MAY-08', 1, 4);
 
--- 4. To list the ItemName in ascending order of the date of purchase where quantity is more than 3.
-SELECT Item_Name 
-FROM Equipment_Details 
-WHERE Quantity > 3 
-ORDER BY Date_of_Purchase ASC;
+INSERT INTO equipment_details
+VALUES (6, 'Hub', 8000, 1, '31-OCT-08', 2, 1);
 
--- 5. To count the number, average of costperitem of items purchased before 1/1/08.
-SELECT COUNT(*) AS Total_Count, 
-       AVG(Cost_Per_Item) AS Avg_Cost 
-FROM Equipment_Details 
-WHERE Date_of_Purchase < TO_DATE('01/01/2008', 'DD/MM/YYYY');
+INSERT INTO equipment_details
+VALUES (7, 'Plotter', 25000, 2, '11-JAN-09', 2, 2);
 
--- 6. To display the minimum warranty , maximum warranty period.
-SELECT MIN(Warranty) AS Min_Warranty, 
-       MAX(Warranty) AS Max_Warranty 
-FROM Equipment_Details;
 
--- 7. To Display the day of the date , month , year of purchase in characters.
-SELECT TO_CHAR(Date_of_Purchase, 'Day') AS Purchase_Day,
-       TO_CHAR(Date_of_Purchase, 'Month') AS Purchase_Month,
-       TO_CHAR(Date_of_Purchase, 'Year') AS Purchase_Year
-FROM Equipment_Details;
+-- Display All Records
+SELECT * FROM equipment_details;
 
--- 8. To round of the warranty period to month and year format.
-SELECT Item_Name,
-       ROUND(Date_of_Purchase, 'MONTH') AS Rounded_To_Month,
-       ROUND(Date_of_Purchase, 'YEAR') AS Rounded_To_Year 
-FROM Equipment_Details;
 
--- 9. To display the next Sunday from the date "07-JUN-96".
-SELECT NEXT_DAY(TO_DATE('07-JUN-1996', 'DD-MON-YYYY'), 'SUNDAY') AS Next_Sunday 
-FROM DUAL;
+-- Q1: Select ItemName purchased before 31/10/07
+SELECT item_name
+FROM equipment_details
+WHERE date_of_purchase < '31-OCT-07';
 
--- 10. To list the ItemName, which are within the warranty period till present date.
-SELECT Item_Name 
-FROM Equipment_Details 
-WHERE ADD_MONTHS(Date_of_Purchase, Warranty * 12) >= SYSDATE;
+
+-- Q2: Extend warranty by 6 months
+SELECT item_name,
+       ADD_MONTHS(date_of_purchase, 6) AS Extended_warranty
+FROM equipment_details;
+
+
+-- Q3: Display ItemName, Date of Purchase and months between
+-- purchase date and present date
+SELECT item_name,
+       date_of_purchase,
+       MONTHS_BETWEEN(SYSDATE, date_of_purchase) AS months
+FROM equipment_details;
+
+
+-- Q4: ItemName in ascending order of purchase date
+-- where quantity is more than 3
+SELECT item_name
+FROM equipment_details
+WHERE quantity > 3
+ORDER BY date_of_purchase ASC;
+
+
+-- Q5: Count and average cost of items purchased before 1/1/08
+SELECT COUNT(*) AS total_item,
+       AVG(cost_per_item) AS average_cost
+FROM equipment_details
+WHERE date_of_purchase < TO_DATE('01-JAN-08', 'DD-MM-YY');
+
+
+-- Q6: Minimum and maximum warranty
+SELECT MIN(warranty) AS minimum_warranty,
+       MAX(warranty) AS maximum_warranty
+FROM equipment_details;
+
+
+-- Q7: Display day, month and year of purchase in characters
+SELECT item_name,
+       TO_CHAR(date_of_purchase, 'day') AS day,
+       TO_CHAR(date_of_purchase, 'month') AS month,
+       TO_CHAR(date_of_purchase, 'year') AS year
+FROM equipment_details;
+
+
+-- Q8: Round purchase date to month and year
+SELECT item_name,
+       ROUND(date_of_purchase, 'month') AS round_month,
+       ROUND(date_of_purchase, 'year') AS round_year
+FROM equipment_details;
+
+
+-- Q9: Display next Sunday from 07-JUN-96
+SELECT NEXT_DAY(
+    TO_DATE('07-JUN-96', 'DD-MM-YY'),
+    'sunday'
+)
+FROM dual;
+
+
+-- Q10: List items within warranty period till present date
+SELECT item_name
+FROM equipment_details
+WHERE ADD_MONTHS(date_of_purchase, warranty * 12) >= SYSDATE;

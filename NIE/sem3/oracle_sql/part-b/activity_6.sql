@@ -72,3 +72,5 @@ SELECT * FROM Computer_Science WHERE Year = 'Third';
 
 -- 10. Rename table Computer Science to CS.
 RENAME Computer_Science TO CS;
+
+commit;

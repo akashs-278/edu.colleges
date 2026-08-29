@@ -31,6 +31,7 @@ VALUES (6, 'Hub', 8000, 1, '31-OCT-08', 2, 1);
 INSERT INTO equipment_details
 VALUES (7, 'Plotter', 25000, 2, '11-JAN-09', 2, 2);
 
+commit;
 
 -- Display All Records
 SELECT * FROM equipment_details;

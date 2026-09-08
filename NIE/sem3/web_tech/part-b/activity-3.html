@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+	<head>
+		<title>JavaScript String Functions</title>
+	</head>
+	<body>
+		<h2>JavaScript String Functions</h2>
+		<script>
+			let text = "Hello JavaScript World";
+			document.write("<b>Original String:</b> " + text + "<br><br>");
+			document.write("1. Length: " + text.length + "<br>");
+			document.write("2. Uppercase: " + text.toUpperCase() + "<br>");
+			document.write("3. Lowercase: " + text.toLowerCase() + "<br>");
+			document.write(
+				"4. Substring (0 to 5): " + text.substring(0, 5) + "<br>",
+			);
+			document.write(
+				"5. Replace 'JavaScript' with 'JS': " +
+					text.replace("JavaScript", "JS") +
+					"<br>",
+			);
+		</script>
+	</body>
+</html>

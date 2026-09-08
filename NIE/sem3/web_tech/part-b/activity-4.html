@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Login Page</title>
+	</head>
+	<body>
+		<h2>Login Page</h2>
+		<form onsubmit="return validateLogin();">
+			Username: <br />
+			<input type="text" id="username" /><br /><br />
+			Password: <br />
+			<input type="password" id="password" /><br /><br />
+			<input type="submit" value="Login" />
+		</form>
+		<script>
+			function validateLogin() {
+				let correctUsername = "admin";
+				let correctPassword = "12345";
+				let enteredUsername = document.getElementById("username").value;
+				let enteredPassword = document.getElementById("password").value;
+				if (
+					enteredUsername === correctUsername &&
+					enteredPassword === correctPassword
+				) {
+					alert("Login successful!");
+				} else {
+					alert("Invalid username or password!");
+				}
+				return false;
+			}
+		</script>
+	</body>
+</html>

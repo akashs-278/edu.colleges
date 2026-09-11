@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Register Number Validation</title>
+	</head>
+	<body>
+		<h2>University Register Number Validation</h2>
+		<label>Enter Register Number:</label><br />
+		<input
+			type="text"
+			id="regno"
+			placeholder="e.g., U01BT24S0001"
+		/><br /><br />
+		<button onclick="validateRegNo()">Validate</button>
+		<script>
+			function validateRegNo() {
+				let regNo = document.getElementById("regno").value;
+				let pattern = /^U\d{2}[A-Z]{2}\d{2}[A-Z]\d{4}$/;
+				if (pattern.test(regNo)) {
+					alert("Valid Register Number ");
+				} else {
+					alert(
+						"Invalid Register Number \nFormat should be like: U01BT24S0001",
+					);
+				}
+			}
+		</script>
+	</body>
+</html>

@@ -1,29 +1,20 @@
 ﻿using System;
 using System.IO;
 
-class Program
-{
-    static void Main()
-    {
-        string filePath = "sample.txt";
+ class Program
+ {
+        static void Main(string[] args)
+        {
+            string filePath = @"C:\demo\Sample.txt";
 
-        // Data to write
-        string text = "Welcome to C# File Handling.\n";
-        text += "This is the second line.\n";
-        text += "This file was created using C#.";
+            string textToWrite = "Hello World";
+            File.WriteAllText(filePath, textToWrite);
+            Console.WriteLine("Text written to file successfully.");
 
-        // Write to file
-        File.WriteAllText(filePath, text);
+            string readText = File.ReadAllText(filePath);
+            Console.WriteLine("Text read from a file:");
+            Console.WriteLine(readText);
 
-        Console.WriteLine("Data written to file successfully.\n");
-
-        // Read from file
-        string data = File.ReadAllText(filePath);
-
-        Console.WriteLine("Contents of the file:");
-        Console.WriteLine("---------------------");
-        Console.WriteLine(data);
-
-        Console.ReadKey();
-    }
-}
+            Console.ReadKey();
+        }
+   }

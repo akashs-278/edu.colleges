@@ -32,10 +32,10 @@
             txtID = new TextBox();
             button1 = new Button();
             dataGridView1 = new DataGridView();
-            labelName = new Label();
-            labelAge = new Label();
-            txtName = new TextBox();
-            txtAge = new TextBox();
+            txtName = new Label();
+            txtAge = new Label();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
             button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
@@ -69,42 +69,42 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(72, 201);
+            dataGridView1.Location = new Point(191, 235);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(588, 237);
+            dataGridView1.Size = new Size(240, 150);
             dataGridView1.TabIndex = 3;
-            // 
-            // labelName
-            // 
-            labelName.AutoSize = true;
-            labelName.Location = new Point(72, 80);
-            labelName.Name = "labelName";
-            labelName.Size = new Size(45, 15);
-            labelName.TabIndex = 4;
-            labelName.Text = "Name :";
-            // 
-            // labelAge
-            // 
-            labelAge.AutoSize = true;
-            labelAge.Location = new Point(72, 117);
-            labelAge.Name = "labelAge";
-            labelAge.Size = new Size(34, 15);
-            labelAge.TabIndex = 5;
-            labelAge.Text = "Age :";
             // 
             // txtName
             // 
-            txtName.Location = new Point(191, 76);
+            txtName.AutoSize = true;
+            txtName.Location = new Point(72, 80);
             txtName.Name = "txtName";
-            txtName.Size = new Size(100, 23);
-            txtName.TabIndex = 6;
+            txtName.Size = new Size(45, 15);
+            txtName.TabIndex = 4;
+            txtName.Text = "Name :";
             // 
             // txtAge
             // 
-            txtAge.Location = new Point(191, 113);
+            txtAge.AutoSize = true;
+            txtAge.Location = new Point(72, 117);
             txtAge.Name = "txtAge";
-            txtAge.Size = new Size(100, 23);
-            txtAge.TabIndex = 7;
+            txtAge.Size = new Size(34, 15);
+            txtAge.TabIndex = 5;
+            txtAge.Text = "Age :";
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(191, 76);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(100, 23);
+            textBox2.TabIndex = 6;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(191, 113);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(100, 23);
+            textBox3.TabIndex = 7;
             // 
             // button2
             // 
@@ -122,10 +122,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(button2);
+            Controls.Add(textBox3);
+            Controls.Add(textBox2);
             Controls.Add(txtAge);
             Controls.Add(txtName);
-            Controls.Add(labelAge);
-            Controls.Add(labelName);
             Controls.Add(dataGridView1);
             Controls.Add(button1);
             Controls.Add(txtID);
@@ -143,10 +143,10 @@
         private TextBox txtID;
         private Button button1;
         private DataGridView dataGridView1;
-        private Label labelName;
-        private Label labelAge;
-        private TextBox txtName;
-        private TextBox txtAge;
+        private Label txtName;
+        private Label txtAge;
+        private TextBox textBox2;
+        private TextBox textBox3;
         private Button button2;
     }
 }

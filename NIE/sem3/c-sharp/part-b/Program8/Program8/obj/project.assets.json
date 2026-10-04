@@ -2,15 +2,15 @@
   "version": 4,
   "targets": {
     "net10.0-windows": {
-      "System.Data.OleDb/8.0.0": {
+      "System.Data.OleDb/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net8.0/System.Data.OleDb.dll": {
+          "lib/net7.0/System.Data.OleDb.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/System.Data.OleDb.dll": {
+          "lib/net7.0/System.Data.OleDb.dll": {
             "related": ".xml"
           }
         },
@@ -18,7 +18,7 @@
           "buildTransitive/net6.0/_._": {}
         },
         "runtimeTargets": {
-          "runtimes/win/lib/net8.0/System.Data.OleDb.dll": {
+          "runtimes/win/lib/net7.0/System.Data.OleDb.dll": {
             "assetType": "runtime",
             "rid": "win"
           }
@@ -27,16 +27,15 @@
     }
   },
   "libraries": {
-    "System.Data.OleDb/8.0.0": {
-      "sha512": "FpUTcQ0E8mFvcYp8UZA3NX8wgmhmsCue56g1zfkr1xdOnT5FrYYmC5DWQ9xCw8o8zuxVBKLZvliqEGgmeoalaQ==",
+    "System.Data.OleDb/7.0.0": {
+      "sha512": "bhAs+5X5acgg3zQ6N4HqxqfwwmqWJzgt54BC8iwygcqa2jktxDFzxwN83GNvqgoTcTs2tenDS/jmhC+AQsmcyg==",
       "type": "package",
-      "path": "system.data.oledb/8.0.0",
+      "path": "system.data.oledb/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "LICENSE.TXT",
-        "PACKAGE.md",
         "THIRD-PARTY-NOTICES.TXT",
         "buildTransitive/net461/System.Data.OleDb.targets",
         "buildTransitive/net462/_._",
@@ -48,17 +47,13 @@
         "lib/net6.0/System.Data.OleDb.xml",
         "lib/net7.0/System.Data.OleDb.dll",
         "lib/net7.0/System.Data.OleDb.xml",
-        "lib/net8.0/System.Data.OleDb.dll",
-        "lib/net8.0/System.Data.OleDb.xml",
         "lib/netstandard2.0/System.Data.OleDb.dll",
         "lib/netstandard2.0/System.Data.OleDb.xml",
         "runtimes/win/lib/net6.0/System.Data.OleDb.dll",
         "runtimes/win/lib/net6.0/System.Data.OleDb.xml",
         "runtimes/win/lib/net7.0/System.Data.OleDb.dll",
         "runtimes/win/lib/net7.0/System.Data.OleDb.xml",
-        "runtimes/win/lib/net8.0/System.Data.OleDb.dll",
-        "runtimes/win/lib/net8.0/System.Data.OleDb.xml",
-        "system.data.oledb.8.0.0.nupkg.sha512",
+        "system.data.oledb.7.0.0.nupkg.sha512",
         "system.data.oledb.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -66,7 +61,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0-windows": [
-      "System.Data.OleDb >= 8.0.0"
+      "System.Data.OleDb >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -75,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj",
-      "projectName": "Program8",
-      "projectPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj",
+      "projectUniqueName": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj",
+      "projectName": "program8",
+      "projectPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj",
       "packagesPath": "C:\\Users\\akashs278\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\obj\\",
+      "outputPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akashs278\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,7 +113,7 @@
         "dependencies": {
           "System.Data.OleDb": {
             "target": "Package",
-            "version": "[8.0.0, )"
+            "version": "[7.0.0, )"
           }
         },
         "imports": [

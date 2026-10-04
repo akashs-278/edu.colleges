@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj": {}
+    "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj": {
+    "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj",
-        "projectName": "Program8",
-        "projectPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\Program8.csproj",
+        "projectUniqueName": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj",
+        "projectName": "program8",
+        "projectPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\program8.csproj",
         "packagesPath": "C:\\Users\\akashs278\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\Program8\\Program8\\obj\\",
+        "outputPath": "C:\\Users\\akashs278\\Documents\\gh\\edu.colleges\\NIE\\sem3\\c-sharp\\part-b\\program8\\program8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akashs278\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,7 +50,7 @@
           "dependencies": {
             "System.Data.OleDb": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

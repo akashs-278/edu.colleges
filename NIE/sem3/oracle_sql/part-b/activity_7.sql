@@ -14,6 +14,7 @@ CREATE TABLE Availability (
     No_of_seats NUMBER
 );
 
+
 INSERT INTO Train_Details VALUES ('RJD16', 'Rajdhani Express', 'Bangalore', 'Mumbai');
 INSERT INTO Train_Details VALUES ('UDE04', 'Udhyan Express', 'Chennai', 'Hyderabad');
 INSERT INTO Train_Details VALUES ('KKE55', 'Karnataka Express', 'Bangalore', 'Chennai');
@@ -53,10 +54,13 @@ FROM Train_Details t
 JOIN Availability a ON t.Train_No = a.Train_No;
 
 -- 3. Create a view total_seats to display train number, start place, use COUNT function on No_of_seats, group by start place and perform the following:
-CREATE VIEW total_seats AS 
-SELECT Train_No, Start_Place, COUNT(No_of_seats) AS Total_Seats 
-FROM Availability 
+CREATE OR REPLACE VIEW total_seats AS
+SELECT Train_No,
+       Start_Place,
+       COUNT(No_of_seats) AS Total_Seats
+FROM Availability
 GROUP BY Train_No, Start_Place;
+
 
 -- 3.a. Insert new record.
 INSERT INTO total_seats (Train_No, Start_Place) VALUES ('NEW01', 'Delhi');
